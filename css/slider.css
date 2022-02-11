@@ -34,3 +34,20 @@
 .display-right {
     right: 0%;
 }
+
+.div2 {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    position: relative;
+}
+
+.hund {
+    -webkit-filter: blur(20px);
+    filter: blur(20px);
+}
+
+.hund:hover {
+    -webkit-filter: blur(0px);
+    filter: blur(0px);
+}

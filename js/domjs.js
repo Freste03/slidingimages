@@ -18,3 +18,5 @@ function showDiv(n) {
     }
     imageArray[imageCounter - 1].style.display = "block";
 }
+
+
